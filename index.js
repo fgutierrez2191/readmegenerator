@@ -47,8 +47,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(answers => {
         
-        //const response = generateMarkdown(answers);
-        console.log(answers);
+
        
         writeToFile("generated.md", answers);
       
