@@ -20,6 +20,11 @@ const questions =  [
         message: "What would you like to put in the description of your README?",
         name: "description"   
     },
+    {
+        type: "input",
+        message: "Enter Installation requirements:",
+        name: "installation"   
+    },
      {
         type: "input",
         message: "Please list the project contributors.",
@@ -33,9 +38,20 @@ const questions =  [
     },
     {
         type: "input",
-        message: "Please enter the license that you would like to use",
-        name: "license"
+        message: "Please enter Usage:",
+        name: "usage"
     },
+    {
+        type: "checkbox",
+        name: "license",
+        message: "Please choose the license that you would like to use",
+        choices: ['Mit', 'Apache', 'GPL']
+    },
+    {
+        type: "input",
+        message: "Enter any tests:",
+        name: "tests"
+      },
 ];
 
 // function to write README file

@@ -1,21 +1,30 @@
 
   # Title
-  landing page
+  readmegenerator
 
   ## Username
-  jessica gutierrez
+  fgutierrez2191
 
   ## Description
-  an awesome landing page
+  an app used to create high quality readmes
+
+  ## Installation
+  installation
 
   ## Contributors
-  jessica gutierrez
+  felix gutierrez
 
   ## Technologies
-  HTML,CSS
+  HTML,JAVASCRIPT,NODE.JS
+
+  ## Usage
+  usage
 
   ## License
   Mit
+
+  ## Tests
+  tests
 
   ## *For Questions*
   contact:

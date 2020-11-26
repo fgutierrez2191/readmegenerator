@@ -1,18 +1,18 @@
 
   # Title
-  ffq
+  ReadMe Generator
 
   ## Username
-  hoiujh
+  fgutierrez2191
 
   ## Description
-  fwqw
+  I used Javascript and Node>Js to generate a file called Generate.md. This File can they be copied and pasted into your Readme.md file. 
 
   ## Contributors
-  wqq
+  Felix Gutierrez
 
   ## Technologies
-  
+  Javascript, Node.js
 
   ## License
   undefined

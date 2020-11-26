@@ -10,14 +10,23 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
+  ## Installation
+  ${data.installation}
+
   ## Contributors
   ${data.contributors}
 
   ## Technologies
   ${data.technologies}
 
+  ## Usage
+  ${data.usage}
+
   ## License
   ${data.license}
+
+  ## Tests
+  ${data.tests}
 
   ## *For Questions*
   contact:
