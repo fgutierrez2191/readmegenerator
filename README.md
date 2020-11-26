@@ -2,6 +2,8 @@
   # Title
   ReadMe Generator
 
+   [A quick video tutorial](https://drive.google.com/file/d/1814IwGPqu1Bi686itZLJc6FNHztk_9PZ/view)
+
   ## Username
   fgutierrez2191
 
