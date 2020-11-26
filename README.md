@@ -2,8 +2,6 @@
   # Title
   ReadMe Generator
 
-  <iframe src="https://drive.google.com/file/d/1814IwGPqu1Bi686itZLJc6FNHztk_9PZ/preview" width="640" height="480"></iframe>
-
   ## Username
   fgutierrez2191
 
